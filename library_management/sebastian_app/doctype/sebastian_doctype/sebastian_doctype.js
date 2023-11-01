@@ -3,6 +3,6 @@
 
 frappe.ui.form.on('Sebastian Doctype', {
 	refresh: function(frm) {
-        console.log('hola')
+        console.log('Sebas App Up')
 	}
 });
